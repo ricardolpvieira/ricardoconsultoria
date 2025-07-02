@@ -46,7 +46,7 @@ export default function RootLayout({
               "@type": "Organization",
               name: "Ricardo Tech",
               url: "https://ricardolpvieira.com.br",
-              logo: "https://ricardolpvieira.com.br/logo.png",
+              logo: "https://blogger.googleusercontent.com/img/a/AVvXsEge4EO6Dip6M4nal0ese2z7osNH-J2nozBLTuR110ZSML1AKuEt4Rf8MCZxWdSDIlGJ9gzPAoEl4j0tm-gkMp2B42M59bVyXkJkwpNiARqkcOXD-XzNUUnfR2iXpGpQM8xc20OGkI4WnpdljuX1zIApDu2fPw66qpKQvLDr-jEZnyY3niAx20XDIIwjKMI=s497",
               description: "Consultoria em Sistemas Web",
               contactPoint: {
                 "@type": "ContactPoint",
