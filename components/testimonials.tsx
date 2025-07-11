@@ -10,7 +10,7 @@ const testimonials = [
     content:
       "O Ricardo transformou completamente nossa presença online. Nosso e-commerce aumentou as vendas em 300% no primeiro mês!",
     rating: 5,
-    image: "/comentarios/Maria-Silva.jpg?height=80&width=80",
+    image: "/placeholder.svg?height=80&width=80",
   },
   {
     name: "João Santos",
@@ -18,7 +18,7 @@ const testimonials = [
     content:
       "Profissional excepcional! Entregou um site moderno, rápido e que realmente converte. Recomendo sem hesitar.",
     rating: 5,
-    image: "/comentarios/João-Santos.jpg?height=80&width=80",
+    image: "/placeholder.svg?height=80&width=80",
   },
   {
     name: "Ana Costa",
@@ -26,7 +26,7 @@ const testimonials = [
     content:
       "A automação de atendimento implementada revolucionou nossa clínica. Agora temos atendimento 24h automatizado.",
     rating: 5,
-    image: "/comentarios/Ana-Costa.jpg?height=80&width=80",
+    image: "/placeholder.svg?height=80&width=80",
   },
   {
     name: "Carlos Oliveira",
@@ -34,7 +34,7 @@ const testimonials = [
     content:
       "Site incrível com sistema de delivery integrado. A experiência do usuário é fantástica e as vendas dispararam.",
     rating: 5,
-    image: "/comentarios/Carlos-Oliveira.jpg?height=80&width=80",
+    image: "/placeholder.svg?height=80&width=80",
   },
 ]
 

@@ -4,12 +4,12 @@ import { motion } from "framer-motion"
 import Image from "next/image"
 
 const clients = [
-  { name: "FHF service", logo: "/clientes/FHF-Service-Servicos-Tecnicos-e-Inteligentes.png?height=60&width=120" },
-  { name: "Clinica Dra. Dinorah", logo: "/clientes/clinica-dra-dinorah.png?height=60&width=120" },
-  { name: "Nucleo Ocupacional", logo: "/clientes/clinica-nucleo-ocupacional.png?height=60&width=120" },
-  { name: "Clinica CotiMed", logo: "/clientes/clinica-coti-med.png?height=60&width=120" },
-  { name: "Val Consultoria", logo: "/clientes/logo-Val-Consultoria-Qualidade-Alimentar.png?height=60&width=120" },
-  { name: "SmartSolutions", logo: "/clientes/placeholder.svg?height=60&width=120" },
+  { name: "TechCorp", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "InnovateHub", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "DigitalFlow", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "CloudSystems", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "DataDriven", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "SmartSolutions", logo: "/placeholder.svg?height=60&width=120" },
 ]
 
 export default function Clients() {

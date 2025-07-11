@@ -4,12 +4,12 @@ import { motion } from "framer-motion"
 import Image from "next/image"
 
 const partners = [
-  { name: "Hostinger", logo: "/parceiros/Hostinger_Logo.png?height=60&width=120" },
-  { name: "HostGator", logo: "/parceiros/logo-hostgator.png?height=60&width=120" },
-  { name: "Vercel", logo: "/parceiros/logo-vercel.svg?height=60&width=120" },
-  { name: "AWS", logo: "/parceiros/Amazon_Web_Services_Logo.png?height=60&width=120" },
-  { name: "Hostoo", logo: "/parceiros/logo-hostoo.png?height=60&width=120" },
-  { name: "Cloudflare", logo: "/parceiros/Cloudflare_Logo.png?height=60&width=120" },
+  { name: "Hostinger", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "HostGator", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "Vercel", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "AWS", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "Google Cloud", logo: "/placeholder.svg?height=60&width=120" },
+  { name: "Cloudflare", logo: "/placeholder.svg?height=60&width=120" },
 ]
 
 export default function Partners() {
